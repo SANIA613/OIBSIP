@@ -131,3 +131,11 @@ You can add custom web links or short outputs to `commands.json` without modifyi
 - **Folder Path:** `OIBSIP/Python-Task1-VoiceAssistant/`
 - **Demo Title Card:** Starts with a 2-second static overlay displaying Full Name, Track Name (*Python Programming*), and Task Title (*Task 1 - Voice Assistant*).
 - **Hashtags:** `#oasisinfobyte` `#python` `#datascience` `#internship`
+
+---
+
+## 👤 Author
+
+- **Name:** Saniya Tamboli
+- **Track:** Python Programming
+- **Cohort / Internship Program:** Oasis Infobyte Internship (OIBSIP)
